@@ -8,7 +8,7 @@ Intersts :
 - Scientific Computation and Modelling 
 - Computer Vision 
 
-## Languages and Software I know/use:
+## Languages and Software I know and/or use:
 <br/>
 <img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png" />
 
