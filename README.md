@@ -10,6 +10,7 @@ Intersts :
 
 ## Languages and Software I know and/or use:
 <br/>
+
 <img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png" />
 
 <img align="left" alt="Julia" width="50px" src="https://user-images.githubusercontent.com/55111154/100548941-f9f48680-3295-11eb-9d74-c272f92a50d4.png" />
