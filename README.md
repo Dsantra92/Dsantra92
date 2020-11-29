@@ -32,7 +32,7 @@ Intersts :
 <br/>
 <br/>
 
-## Stats
+## My GitHub statistics : 
 
 ![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
 
