@@ -32,6 +32,8 @@ Intersts :
 <br/>
 <br/>
 
+## Stats
+
 ![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)](https://github.com/anuraghazra/github-readme-stats)
