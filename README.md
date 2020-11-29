@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Dsantra92/DSantra92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Deeptendu Santra currently studying in 2nd year at Institute of Engeering and Management, Kolkata.
 
-Here are some ideas to get you started:
+Intersts :
+- Bayesian Machine Learning
+- Scientific Computation and Modelling
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Software :
+- Julia
+- Python
+- C/C++
+- Fortran
+- Java
+- Git
+- vsCode
+
+
+![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>My month in a meme :
+
+<img width = 400 src ="dasd">
+
+
