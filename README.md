@@ -38,11 +38,4 @@ Intersts :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-<summary>Monthly meme</summary>
-
-**My month in a meme** :
-<br>
-
-<img align="left" width = 400 src ="https://user-images.githubusercontent.com/55111154/100550259-b7837780-329e-11eb-8363-0479996b706f.jpg">
-</details>
+<img src="https://komarev.com/ghpvc/?username=DSantra92&label=Visitors+this+months&color=1dc48a">
