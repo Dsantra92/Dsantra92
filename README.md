@@ -40,9 +40,5 @@ Intersts :
 
 <details>
 <summary>Monthly meme</summary>
-
-**My month in a meme** :
-<br>
-
-<img align="left" width = 400 src ="https://user-images.githubusercontent.com/55111154/100550259-b7837780-329e-11eb-8363-0479996b706f.jpg">
+![](https://komarev.com/ghpvc/?username=DSantra92)
 </details>
