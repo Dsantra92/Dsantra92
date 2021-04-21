@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-I am **Deeptendu Santra**.
-<br>Sophomore at Institute of Engeering and Management, Kolkata.
+<p align="center">
+I am <b>Deeptendu Santra</b>.<br>
+Sophomore at Institute of Engeering and Management, Kolkata.
 
-<p align="center>
+</p>
+
+
+<p align="center">
 
 <a href ="mailto:santradibbo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -18,7 +22,7 @@ I am **Deeptendu Santra**.
 </a>
 </p>
 
-Intersts :
+Interests :
 - Bayesian Machine Learning 
 - Scientific Computation and Modelling 
 - Computer Vision 
@@ -51,6 +55,4 @@ Intersts :
 
 ![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=DSantra92&label=Visitors+this+months&color=1dc48a">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)
