@@ -55,4 +55,4 @@ Interests :
 
 ![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB&hide=Haskell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB&exclude_repo=dotfiles)
