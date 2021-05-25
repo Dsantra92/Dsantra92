@@ -9,7 +9,7 @@ Sophomore at Institute of Engeering and Management, Kolkata.
 
 <p align="center">
 
-<a href ="mailto:santradibbo@gmail.com">
+<a href ="mailto:deeptendu.santra@protonmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp
 
@@ -55,4 +55,4 @@ Interests :
 
 ![Deeptendu's github stats](https://github-readme-stats.vercel.app/api?username=DSantra92&count_private=true&show_icons=True&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantra92&hide=MATLAB&hide=Haskell)
