@@ -2,7 +2,7 @@
 
 <p align="center">
 I am <b>Deeptendu Santra</b>.<br>
-Sophomore at Institute of Engeering and Management, Kolkata.
+Junior pursuing Electronics and Communications Engineering.
 
 </p>
 
@@ -26,6 +26,10 @@ Interests :
 - Bayesian Machine Learning 
 - Scientific Computation and Modelling 
 - Computer Vision 
+
+Currently focusing on:
+- Writing more error-proof, readable and maintainable code.
+- Reading some papers
 
 ## Languages and Software I know and/or use:
 
