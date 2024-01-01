@@ -1,4 +1,4 @@
-I am [Deeptendu](https://linktr.ee/dsantra92). I love playing with graphs and images.
+Hey 👋, I am [Deeptendu](https://linktr.ee/dsantra92). I love playing with graphs and images.
 
 Last 3 experiences:
 1. MLE @ Unify.ai (current)
