@@ -10,4 +10,4 @@ Previous experiences:
 2. Google Summer of Code student @ [The Julia Language](https://github.com/JuliaLang)
 3. Mitacs Globalink Research Intern @ Queen's University
 
-Reach me on [X](https://x.com/dsantra92), [LinkedIn](https://linkedin.com/in/dsantra), [dsantra.com](https://dsantra.com), or hi@[dsantra.com].
+Reach me on [X](https://x.com/dsantra92), [LinkedIn](https://linkedin.com/in/dsantra), or hi@[[dsantra.com](dsantra.com)].
